@@ -28,7 +28,7 @@ public class GuessNumberGame {
 
             //if user guess the correct number so print Congratulations! and quit the program.
             if (guess_input == correctNum){
-                System.out.println("Congratulations!  That's correct");
+                System.out.println("Congratulations!  That's correct iam so pround of u!!! !!");
                 System.exit(0);
             }
             //if user guess the number lower than the correct number so print hint to try again
